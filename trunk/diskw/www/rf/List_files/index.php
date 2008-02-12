@@ -2,7 +2,7 @@
 <style type="text/css">
 <!--
 body {
-	background-color: #1F1F1F;
+	background-color: #000000;
 }
 -->
 </style>
@@ -41,7 +41,8 @@ document.oncontextmenu=menu;
 document.onmouseup=finish;
 -->
 </script>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head><body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" scroll="no" text="#a0a0a0">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head>
+<body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" scroll="no" text="#a0a0a0" style="background-color: #A0A0A0">
 <div id="menu" style="position: absolute; visibility: hidden;"></div>
 <table border="0" cellpadding="0" cellspacing="0" height="285" width="305">
   <tbody><tr>
@@ -53,9 +54,9 @@ document.onmouseup=finish;
                 <tbody><tr>
 				  <td align="left" valign="middle"><div align="left">
 
-                                  <a href="http://www.RF-Winter.Tk/" target="_blank"><img src="index_data/site_web.jpg" onmouseover="this.src='site_web_hover.jpg'" onmouseout="this.src='site_web.jpg'" border="0"></a>&nbsp;
+                                  <a href="http://127.0.0.1/" target="_blank"><img src="index_data/site_web.jpg" onmouseover="this.src='site_web_hover.jpg'" onmouseout="this.src='site_web.jpg'" border="0"></a>&nbsp;
                                   
-                                  <a href="http://www.RF-Winter-My-Forum.Tk/" target="_blank"><img src="index_data/forum.jpg" onmouseover="this.src='forum_hover.jpg'" onmouseout="this.src='forum.jpg'" border="0"></a>&nbsp;
+                                  <a href="http://http://www.gamehaze.com/forum/f352/" target="_blank"><img src="index_data/forum.jpg" onmouseover="this.src='forum_hover.jpg'" onmouseout="this.src='forum.jpg'" border="0"></a>&nbsp;
 
                                   <a href="http://127.0.0.1/register.php"><img src="index_data/register.jpg" onmouseover="this.src='register_hover.jpg'" onmouseout="this.src='register.jpg'" border="0"></a>&nbsp;
 
@@ -74,13 +75,10 @@ $LTotalConnecte = substr($TotalConnecte,8,15);
 		//Server Status Check Kurayami Corp.
 		$serverip = "127.0.0.1";
 
-		echo "<body bgcolor=#1F1F1F><b><font size=-1 color=#7b7b7b>";
+		echo "<body bgcolor=#000000><b><font size=-1 color=#7b7b7b>";
 		echo "Login: " . statuscheck($serverip, "10001");
 		echo "&nbsp&nbsp&nbsp Server: " . statuscheck($serverip, "27780");
                 echo "</size>";   
-                echo "<body bgcolor=#1F1F1F><b><font size=-1 color=yellow>";
-                echo "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ";
-                echo "&nbsp Total Players: " . $LTotalConnecte . statuscheck($serverip, "10001");  
                 echo "</size>";
 
 ?>
@@ -101,13 +99,14 @@ a:hover{
 	color: #ffffff;
 }	
 -->
-</style></head><body leftmargin="0" topmargin="0" bgcolor="#1f1f1f" marginheight="0" marginwidth="0">
+</style></head><body leftmargin="0" topmargin="0" bgcolor="#FFFFFF" marginheight="0" marginwidth="0" style="background-color: #A0A0A0">
 <table border="0" cellpadding="3" cellspacing="0" width="315">
   <tbody><tr><td valign="top" width="309">
-<br>[3/16/07] Crafting & english patch released</a>
-<br>[3/16/07] Dont use Auto Action & Auto Chat is still Bugs</a>
-<br>[3/15/07] RF Winter Giga 4 Server opening for beta test</a>
-<br>Powerd by: Bestwar-X Configure by: NelFox</a>
+<br>[02/07/08] Rev2 update released.</a>
+<br>[02/06/08] Rev1 update released.</a>
+<br>[02/01/08] Guide released for Repack.</a>
+<br>[01/31/08] Initial Release of the Kaswynn Repack!</a>
+<br>
 
 <br>
       </td>
