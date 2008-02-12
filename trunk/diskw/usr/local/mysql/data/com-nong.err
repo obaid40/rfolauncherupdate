@@ -1,0 +1,45 @@
+060907 19:40:34  InnoDB: Started; log sequence number 0 43675
+060907 19:40:38 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060907 19:44:39  InnoDB: Started; log sequence number 0 43675
+060907 19:44:41 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060908  3:28:06  InnoDB: Started; log sequence number 0 43675
+060908  3:28:06 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060909 19:57:00  InnoDB: Started; log sequence number 0 43675
+060909 19:57:04 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060910 13:56:34  InnoDB: Started; log sequence number 0 43675
+060910 13:56:35 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060910 13:56:42 [Note] \usr\local\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+060910 13:56:44  InnoDB: Starting shutdown...
+060910 13:56:46  InnoDB: Shutdown completed; log sequence number 0 43675
+060910 13:56:46 [Note] \usr\local\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+060910 13:59:47  InnoDB: Started; log sequence number 0 43675
+060910 13:59:48 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060912 21:08:00  InnoDB: Started; log sequence number 0 43675
+060912 21:08:08 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060913 20:59:04  InnoDB: Started; log sequence number 0 43675
+060913 20:59:06 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060918 10:39:01  InnoDB: Started; log sequence number 0 43675
+060918 10:39:03 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060918 10:44:38  InnoDB: Started; log sequence number 0 43675
+060918 10:44:38 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060920  5:17:25  InnoDB: Started; log sequence number 0 43675
+060920  5:17:26 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060922  3:44:44  InnoDB: Started; log sequence number 0 43675
+060922  3:44:46 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+060922 15:32:11  InnoDB: Started; log sequence number 0 43675
+060922 15:32:12 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
