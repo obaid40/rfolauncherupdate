@@ -16,7 +16,7 @@ cd \usr\local\php
 start \usr\local\mysql\bin\mysqld-nt.exe --defaults-file=/usr/local/mysql/bin/my-small.cnf
 CLS
 echo The server is working on the disk %Disk%:\ [http/127.0.0.1/a/]
-start %Disk%:\home\admin\WWW\redirect.html
+REM start %Disk%:\home\admin\WWW\redirect.html
 start %programit%miniserv.exe "%apacheit%" "%closeit%"
 goto end
 :hint
