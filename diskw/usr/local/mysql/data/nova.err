@@ -1,0 +1,3 @@
+060628 11:17:24  InnoDB: Started; log sequence number 0 43675
+060628 11:17:25 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary

@@ -1,0 +1,54 @@
+080131 16:24:05  InnoDB: Started; log sequence number 0 43675
+Can't start server: Bind on TCP/IP port: No such file or directory
+080131 16:24:05 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+080131 16:24:05 [ERROR] Aborting
+
+080131 16:24:05  InnoDB: Starting shutdown...
+080131 16:24:07  InnoDB: Shutdown completed; log sequence number 0 43675
+080131 16:24:07 [Note] \usr\local\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+080131 16:26:29  InnoDB: Started; log sequence number 0 43675
+Can't start server: Bind on TCP/IP port: No such file or directory
+080131 16:26:29 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+080131 16:26:29 [ERROR] Aborting
+
+080131 16:26:29  InnoDB: Starting shutdown...
+080131 16:26:31  InnoDB: Shutdown completed; log sequence number 0 43675
+080131 16:26:31 [Note] \usr\local\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+080131 16:41:21  InnoDB: Started; log sequence number 0 43675
+Can't start server: Bind on TCP/IP port: No such file or directory
+080131 16:41:21 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+080131 16:41:21 [ERROR] Aborting
+
+080131 16:41:21  InnoDB: Starting shutdown...
+080131 16:41:23  InnoDB: Shutdown completed; log sequence number 0 43675
+080131 16:41:23 [Note] \usr\local\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+080131 17:11:50  InnoDB: Started; log sequence number 0 43675
+Can't start server: Bind on TCP/IP port: No such file or directory
+080131 17:11:50 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+080131 17:11:50 [ERROR] Aborting
+
+080131 17:11:50  InnoDB: Starting shutdown...
+080131 17:11:52  InnoDB: Shutdown completed; log sequence number 0 43675
+080131 17:11:52 [Note] \usr\local\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+080210 12:49:40  InnoDB: Started; log sequence number 0 43675
+Can't start server: Bind on TCP/IP port: No such file or directory
+080210 12:49:40 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+080210 12:49:41 [ERROR] Aborting
+
+080210 12:49:41  InnoDB: Starting shutdown...
+080210 12:49:44  InnoDB: Shutdown completed; log sequence number 0 43675
+080210 12:49:44 [Note] \usr\local\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+080211 12:50:31  InnoDB: Started; log sequence number 0 43675
+Can't start server: Bind on TCP/IP port: No such file or directory
+080211 12:50:32 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+080211 12:50:34 [ERROR] Aborting
+
+080211 12:50:34  InnoDB: Starting shutdown...
+080211 12:50:37  InnoDB: Shutdown completed; log sequence number 0 43675
+080211 12:50:37 [Note] \usr\local\mysql\bin\mysqld-nt.exe: Shutdown complete
+

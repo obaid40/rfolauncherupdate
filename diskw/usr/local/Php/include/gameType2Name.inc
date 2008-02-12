@@ -1,0 +1,15 @@
+<?
+$gametype_show = array (
+"DR" => "Áú×å",
+"DDZ" => "Ï·¹ÈÓéÀÖ¹Ý",
+"AGZ" => "Ï·¹ÈÃâ·ÑÇø",
+"SG" => "ÐÒ¸£»¨Ô°Online"
+);
+
+$activate = array (
+"DR" => "startDRAccount.html",
+"DDZ" => "contract.html",
+"AGZ" => "MJContract.html",
+"SG" => "startG3Account.html"
+);
+?>
