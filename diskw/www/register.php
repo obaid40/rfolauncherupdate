@@ -171,7 +171,6 @@ else
 	else 
 		{
 		mssql_query("INSERT INTO exgame.dbo.x2o_user (UserId,Password,UserName,email) VALUES ((CONVERT (binary(12),'$login')),(CONVERT (binary(12),'$pw')),'$login','$email')");
-		mssql_query("INSERT INTO rfweb.dbo.account_sound_team (id) VALUES ('$login')");
 		mssql_query("INSERT INTO rfweb.dbo.userlogin (userid,password) VALUES ('$login','$pw')");
 		mssql_query("INSERT INTO exgame.dbo.account_sound_team (id) VALUES ('".$login."')")or die('<center>error, account exists<br><br><a href=register.php><img src=retour.jpg border=0></center>');
 
